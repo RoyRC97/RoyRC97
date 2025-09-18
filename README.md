@@ -1,6 +1,6 @@
-## Hola!, Hi there, Salut! 👋
+## Hola!, Hi there, Salut! 👋🏾
 
-💻📚 **Estudiante de Ingeniería en sistemas Computacionales**
+👨🏾‍💻📚 **Estudiante de Ingeniería en sistemas Computacionales**
 
 
 🖥💻**BackEnd Dev**
